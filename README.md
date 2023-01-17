@@ -24,10 +24,10 @@ Create an inventory of your favrouite movies through this web-application.
 
 
 GIFs to demonstrate working of the web application:
-![](https://github.com/W-P-N/MyFavMovies/blob/main/A.gif)
-![](https://github.com/W-P-N/MyFavMovies/blob/main/B.gif)
-![](https://github.com/W-P-N/MyFavMovies/blob/main/C.gif)
-![](https://github.com/W-P-N/MyFavMovies/blob/main/D.gif)
+![](https://github.com/W-P-N/MyFavMovies/A.gif)
+![](https://github.com/W-P-N/MyFavMovies/B.gif)
+![](https://github.com/W-P-N/MyFavMovies/C.gif)
+![](https://github.com/W-P-N/MyFavMovies/D.gif)
 
 
 ## Tech Stack
